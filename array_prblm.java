@@ -39,7 +39,7 @@ public class array_prblm {
         // System.out.println("The Average value is: "+sum/marks.length);
 // *******************************************************
 
-    //   Adding two Matrix of size 2*3
+    //   Adding two Matrix of size 3*3
 
     // int [][] matrix1= { {1,2,3},{4,5,6},{7,8,9} };
     // int [][] matrix2= { {1,2,3},{4,5,6},{7,8,9} };
