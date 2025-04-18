@@ -21,7 +21,7 @@ class PrintStackElements {
 
 
 
-public class Main1{
+public class StackElements{
     public static void main(String[] args) {
         PrintStackElements p = new PrintStackElements();
         p.show();
